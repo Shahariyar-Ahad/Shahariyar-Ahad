@@ -1,20 +1,9 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving
-    &height=350
-    &color=0:0ea5e9,50:22c55e,100:14b8a6
-    &section=header
-    &text=Hello,%20I%20am%20Shahariyar
-    &fontSize=52
-    &fontColor=ffffff
-    &fontAlignY=38
-    &desc=Junior%20Frontend%20Developer%20%7C%20React%20%7C%20JavaScript
-    &descSize=22
-    &descAlignY=62
-    &animation=fadeIn"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0ea5e9,50:22c55e,100:14b8a6&section=header&text=👋%20Hello,%20I%20am%20Shahariyar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Junior%20Frontend%20Developer%20%7C%20⚛️%20React%20%7C%20%20JavaScript&descSize=22&descAlignY=62" />
 </p>
+
+
 
 
 ---
@@ -24,7 +13,7 @@
 
 I am a passionate web developer focused on building real-world, problem-solving web applications.  
 I enjoy working with modern frontend frameworks and backend services to create scalable and user-friendly platforms.  
-My goal is to grow as a developer while building products that create real social impact.
+My goal is to grow as a developer while building products that create real social impact.My hobby is reading books(political ,historical) and watching movies and series.
 
 ---
 
@@ -40,7 +29,8 @@ My goal is to grow as a developer while building products that create real socia
 
 ### 🩸 Blood-Sphere
 <p>
-  <img src="https://cdn-icons-png.flaticon.com/512/2966/2966487.png" width="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="60"/>
+
 </p>
 
 A full-stack blood donation and emergency support platform where users can:
@@ -51,8 +41,10 @@ A full-stack blood donation and emergency support platform where users can:
 **Free for all & community-driven**
 
 **Tech Stack:** React, JavaScript, Firebase, MongoDB  
-🔗 Live: https://your-blood-sphere-live-link  
-🔗 GitHub: https://github.com/your-github-username/blood-sphere
+🔗 Live: https://bd-blood-donar-2025.web.app/ 
+🔗 server: https://blood-donor-server-two.vercel.app/
+🔗 GitHub: https://github.com/Shahariyar-Ahad/bloodsphere-fontend
+🔗 GitHub-sever: https://github.com/Shahariyar-Ahad/blood-server
 
 ---
 
@@ -70,8 +62,10 @@ A pet adoption and pet accessories marketplace for pet lovers where users can:
 **No fees, open for everyone**
 
 **Tech Stack:** React, JavaScript, Firebase, MongoDB  
-🔗 Live: https://your-pet-paw-live-link  
-🔗 GitHub: https://github.com/your-github-username/pet-paw
+🔗 Live: https://petpaw-2025.web.app/ 
+🔗 server link: https://petpaw-server.vercel.app/
+🔗 GitHub-client: https://github.com/Shahariyar-Ahad/my-pet-new-store
+🔗 GitHub-server: https://github.com/Shahariyar-Ahad/petpaw-server
 
 ---
 
@@ -86,8 +80,8 @@ A modern game store web application with a clean and interactive UI where users 
 - Explore game collections  
 
 **Tech Stack:** React, JavaScript, Firebase, MongoDB  
-🔗 Live: https://your-game-store-live-link  
-🔗 GitHub: https://github.com/your-github-username/new-game-store
+🔗 Live: https://gamehub-45a6b.web.app/login
+🔗 GitHub-client: https://github.com/Shahariyar-Ahad/game-hub
 
 ---
 
@@ -112,11 +106,11 @@ A modern game store web application with a clean and interactive UI where users 
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/Shahariyar-Ahad">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/shahariyar-ahad/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
   </a>
 </p>
@@ -125,18 +119,25 @@ A modern game store web application with a clean and interactive UI where users 
 
 ## 📊 GitHub Stats
 
+<details>
+<summary>🏆 GitHub Stats</summary>
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahariyar-Ahad&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahariyar-Ahad&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahariyar-Ahad&layout=compact&theme=tokyonight" />
 </p>
 
----
+
+
+</details>
 
 ⭐ Feel free to explore my repositories and connect with me!
