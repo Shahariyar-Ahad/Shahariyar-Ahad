@@ -1,9 +1,21 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Shahariyar%20Ahad&fontSize=40&fontColor=ffffff"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving
+    &height=350
+    &color=0:0ea5e9,50:22c55e,100:14b8a6
+    &section=header
+    &text=Hello,%20I%20am%20Shahariyar
+    &fontSize=52
+    &fontColor=ffffff
+    &fontAlignY=38
+    &desc=Junior%20Frontend%20Developer%20%7C%20React%20%7C%20JavaScript
+    &descSize=22
+    &descAlignY=62
+    &animation=fadeIn"
   />
 </p>
+
 
 ---
 
