@@ -41,7 +41,7 @@ A full-stack blood donation and emergency support platform where users can:
 **Free for all & community-driven**
 
 **Tech Stack:** React, JavaScript, Firebase, MongoDB  
-🔗 Live: https://bd-blood-donar-2025.web.app/ 
+🔗 Live: https://bd-blood-donar-2025.web.app/
 🔗 server: https://blood-donor-server-two.vercel.app/
 🔗 GitHub: https://github.com/Shahariyar-Ahad/bloodsphere-fontend
 🔗 GitHub-sever: https://github.com/Shahariyar-Ahad/blood-server
